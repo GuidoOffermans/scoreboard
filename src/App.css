@@ -19,6 +19,19 @@
   color: white;
 }
 
+#time span {
+  font-size: 3rem;
+}
+span:first-child  {
+  color: blue;
+}
+span:nth-child(2) {
+  color: green;
+}
+span:nth-child(3)  {
+  color: red;
+}
+
 .App-link {
   color: #61dafb;
 }
